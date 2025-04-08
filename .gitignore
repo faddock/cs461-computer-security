@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+~*
+
+# OS-generated thumbnail/cache files
+._*
+
+# Log files
+*.log
+
+# Compiled files (if ever relevant)
+*.pyc
+__pycache__/
+
+# Other personal scratch/backup files
+notes_drafts/
