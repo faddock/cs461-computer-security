@@ -83,6 +83,20 @@ Convert each group of hex strings into a binary file.
 
 ```
 
+# 3.2.4
+
+Use asymmetric encryption to securely exchange a symmetric key, then use that symmetric key for fast, secure data transfer.
+
+Type
+Pros
+Cons
+Asymmetric (e.g. RSA)
+No need to share keys ahead of time
+Slow, expensive (CPU-intensive)
+Symmetric (e.g. AES)
+Fast, efficient for large data
+Requires both sides to have the same key
+
 
 
 
